@@ -1,0 +1,6 @@
+.login-component {
+    display: grid;
+    grid-template-columns: 400px;
+    justify-content: center;
+    row-gap: 15px;
+}
